@@ -11,7 +11,7 @@ them to the career path. <br>
 We want to share our source code wordpress for others.
 # Installation
 This is the backup file of our source code, so you need to import via plugin 'All-in-One WP Migration'
-<h2>Using the wordpress Dashboard</h2><br>
+<h2>Using the wordpress Dashboard</h2>
   1. Git girlscoutcoders.wpress to your computer<br>
   2. Navigate to the 'Add New' in the plugins dashboard<br>
   3. Search for 'All-in-One WP Migration'<br>
