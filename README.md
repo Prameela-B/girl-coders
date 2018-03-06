@@ -18,7 +18,7 @@ We want to share our source code wordpress for others.
   6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page<br>
 # Install Plugin
   Developers has Editor role, which can edit pages or posts but can't change the theme, install plugins, etc. 
-  If you would like to install plugin, please post to Slack channel.
+  If you would like to install plugin, please post to Slack channel or add a comment to the Github issue.
   Below is the up to date list of plugins that have installed on this web site:
   - All-in-One WP Migration
   - One Click Demo Import
