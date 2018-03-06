@@ -9,13 +9,11 @@ it by introduce computer science to girl scouts, the largest young women communi
 scout s interest and confidence in computer science through hand on experience , and hope to eventually lead
 them to the career path. <br>
 We want to share our source code wordpress for others.
-# Installation
-This is the backup file of our source code, so you need to import via plugin 'All-in-One WP Migration'
-<h2>Using the wordpress Dashboard</h2>
-  1. Git girlscoutcoders.wpress to your computer<br>
-  2. Navigate to the 'Add New' in the plugins dashboard<br>
-  3. Search for 'All-in-One WP Migration'<br>
-  4. Click 'Install Now'<br>
-  5. Activate the plugin on the Plugin dashboard<br>
-  6. Select All-in-One WP Migration and click import<br>
-  7. Choose girlscoutcoders.wpress to import and wait for a few minutes <br>
+# Development Process
+  1. Express your interest in collaborating, either by post a message in Slack, or, add a comment in a Github issue<br>
+  2. You will be invited to join Github repository, and, supplied with username and password for DEV site<br>
+  3. Look through the issues on Github, and place your username on the issues you'd like to work on<br>
+  4. Login to dashboard DEV site: http://dev.girlscoutcoders.org <br>
+  5. Make change for the issue you are working on<br>
+  6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page<br>
+  
