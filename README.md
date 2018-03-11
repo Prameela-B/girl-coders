@@ -60,9 +60,7 @@ Shine<br>
   - Super Coders<br>
   - Inspire Her<br>
   - Project Showcase<br>
-  - App Competition<br>
-  - Siver and Gold Award Ideas<br>
-  - Certificate<br>
+  - Project Competition<br>
 
 Blog<br>	
 
