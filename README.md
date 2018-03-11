@@ -65,5 +65,5 @@ Shine<br>
 Blog<br>	
 
 Support<br>	
-
-Resources<br>
+  - Resources<br>
+  - Mentoring<br>
