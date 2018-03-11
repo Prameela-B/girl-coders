@@ -27,29 +27,35 @@ We want to share our source code wordpress for others.
   - WP Gallery Custom Links  
 # Menu Structure
 Home Page<br>	
+
 About<br>	
   - Girl Scouts STEM Initiative<br>
   - Our Programs<br>
   - Serving Community<br>
   - Chapters<br>
   - Contact Us<br>
+
 Patch<br>	
   - ScratchJr<br>
   - Scratch<br>
   - AppInventor<br>
   - Made with Code<br>
   - Hour of Code<br>
+
 Badge<br>	
   - Computer Expert<br>
   - Digital Photographer<br>
   - Digital Movie Maker<br>
   - Website Designer<br> 
+
 Journey<br>	
   - Think Like a Programmer<br>
+
 Extend<br>	
   - Coding Club<br>
   - Coding Camp<br>
   - Hackathon<br>
+
 Shine<br>	
   - Super Coders<br>
   - Inspire Her<br>
@@ -57,6 +63,9 @@ Shine<br>
   - App Competition<br>
   - Siver and Gold Award Ideas<br>
   - Certificate<br>
+
 Blog<br>	
+
 Support<br>	
+
 Resources<br>
