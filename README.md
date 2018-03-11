@@ -16,6 +16,41 @@ We want to share our source code wordpress for others.
   4. Login to dashboard DEV site: http://dev.girlscoutcoders.org <br>
   5. Make change for the issue you are working on<br>
   6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page<br>
+# Menu Structure
+Home Page	
+About	
+	Girl Scouts STEM Initiative
+	Our Programs
+	Serving Community
+	Chapters
+	Contact Us
+Patch	
+	ScratchJr
+	Scratch
+	AppInventor
+	Made with Code
+	Hour of Code
+Badge	
+	Computer Expert
+	Digital Photographer
+	Digital Movie Maker
+	Website Designer 
+Journey	
+	Think Like a Programmer
+Extend	
+	Coding Club
+	Coding Camp
+	Hackathon
+Shine	
+	Super Coders
+	Inspire Her
+	Project Showcase
+	App Competition
+	Siver and Gold Award Ideas
+	Certificate
+Blog	
+Support	
+Resources
 # Install Plugin
   Developers has Editor role, which can edit pages or posts but can't change the theme, install plugins, etc. 
   If you would like to install plugin, please post to Slack channel or add a comment to the Github issue.
