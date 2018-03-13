@@ -38,7 +38,7 @@ About<br>
 Patch<br>	
   - ScratchJr<br>
   - Scratch<br>
-  - AppInventor<br>
+  - App Inventor<br>
   - Made with Code<br>
   - Hour of Code<br>
 
