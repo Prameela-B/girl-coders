@@ -1,5 +1,4 @@
 # girl-coders
-<b>Contributors</b>: girl-coders, anhnt4288<br>
 <b>Tags</b>: github, git, wordpress, wordpress template, php<br>
 <b>Requires at least</b>: 4.5<br>
 <b>Tested up to</b>: 4.9<br>
@@ -10,12 +9,13 @@ scout s interest and confidence in computer science through hand on experience ,
 them to the career path. <br>
 We want to share our source code wordpress for others.
 # Development Process
-  1. Express your interest in collaborating, either by post to Slack channel, or, add a comment in a Github issue<br>
-  2. You will be invited to join Github repository, and, supplied with username and password for DEV site<br>
-  3. Look through the issues on Github, and place your username on the issues you'd like to work on<br>
-  4. Login to dashboard DEV site: http://dev.girlscoutcoders.org <br>
+  1. Express your interest in collaborating, either by posting to Slack channel, or, by adding a comment in a Github issue<br>
+  2. You will be invited to join Github repository, and, supplied with username and password for login into DEV site dashboard<br>
+  3. Look through the issues on Github, and place your Github username on the issues you'd like to work on<br>
+  4. Login to DEV site dashboard: http://dev.girlscoutcoders.org <br>
   5. Make change for the issue you are working on<br>
-  6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page<br>
+  6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page. 
+  6. Repository admin will be notified automatically by Github when a comment is added, and will validate the change and update the issue.<br>
 # Install Plugin
   Developers has Editor role, which can edit pages or posts but can't change the theme, install plugins, etc. 
   If you would like to install plugin, please post to Slack channel or add a comment to the Github issue.
@@ -24,7 +24,14 @@ We want to share our source code wordpress for others.
   - One Click Demo Import
   - Page Builder by SiteOrigin
   - SiteOrigin Widgets Bundle
-  - WP Gallery Custom Links  
+  - WP Gallery Custom Links
+# Github Issues
+- Each of the web page has a corresponsing Github issue. 
+- The issue captures all the change requests for that web page. 
+- Feel free to work on all the changes requests, or any of the change requests in a Github Issue.
+- When a change request is implemented by developer, developer will add comments to the issue. 
+- When the change request implementation is validated, it will be removed from the issue. The Github issue will remain open.
+
 # Menu Structure
 Home Page<br>	
 
@@ -39,6 +46,9 @@ Patch<br>
   - ScratchJr<br>
   - Scratch<br>
   - App Inventor<br>
+    * Workshop Brochure<br>
+    * Workshop Curriculum<br>
+    * Workshop Outline<br>
   - Made with Code<br>
   - Hour of Code<br>
 
