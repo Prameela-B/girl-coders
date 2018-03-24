@@ -9,13 +9,13 @@ scout s interest and confidence in computer science through hand on experience ,
 them to the career path. <br>
 We want to share our source code wordpress for others.
 # Development Process
-  1. Express your interest in collaborating, either by posting to Slack channel, or, by adding a comment in a Github issue<br>
-  2. You will be invited to join Github repository, and, supplied with username and password for login into DEV site dashboard<br>
-  3. Look through the issues on Github, and place your Github username on the issues you'd like to work on<br>
+  1. Express your interest in collaborating, either by email info@code4socialgood.org, or by posting to Slack channel, or, by adding a comment in a Github issue<br>
+  2. You will be supplied with username and password for login into DEV site dashboard<br>
+  3. Look through the issues on Github, and identify the issues you'd like to work on<br>
   4. Login to DEV site dashboard: http://dev.girlscoutcoders.org <br>
-  5. Make change for the issue you are working on<br>
-  6. Add a commment in Github issue, indicating this issue is completed, and, upload screen shot for the page. 
-  6. Repository admin will be notified automatically by Github when a comment is added, and will validate the change and update the issue.<br>
+  5. Make change for the issues<br>
+  6. Add a commment in the Github issue, indicating this issue is completed. 
+  7. Repository admin will be notified automatically by Github when a comment is added, will validate the change and update the issue.<br>
 # Install Plugin
   Developers has Editor role, which can edit pages or posts but can't change the theme, install plugins, etc. 
   If you would like to install plugin, please post to Slack channel or add a comment to the Github issue.
