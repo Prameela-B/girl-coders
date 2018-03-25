@@ -1,6 +1,9 @@
 
 # Developer's Guide
 
+# WordPress Theme
+We are using: https://www.interserver.net/tips/free-wordpress-themes/
+
 # WordPress Role for Developers
 Developers are assigned Editor role, with ability to edit any page or post.
 Editor role can't change the theme, install plugins, roll back to previous revision, etc.
@@ -8,20 +11,20 @@ If you have need to perform operations that are not provided in Editor role, ple
   
 # List of Plugin
   Below is the up to date list of plugins installed on this web site:
-  - All-in-One WP Migration
+  - All-in-One WP Migration<br>
   
-  - Contact Form 7
-  Create contact form. 
+  - Contact Form 7<br>
+  Create contact form. <br>
   
-  - One Click Demo Import
+  - One Click Demo Import<br>
   
-  - Page Builder by SiteOrigin
+  - Page Builder by SiteOrigin<br>
   
-  - Post Duplicator
-  Quickly create new pages by copying an existing page.
+  - Post Duplicator<br>
+  Quickly create new pages by copying an existing page.<br>
   
-  - SiteOrigin Widgets Bundle
+  - SiteOrigin Widgets Bundle<br>
   
-  - Visual Composer Website Builder
+  - Visual Composer Website Builder<br>
   
-  - WP Gallery Custom Links
+  - WP Gallery Custom Links<br>
