@@ -17,7 +17,7 @@ We want to share our source code wordpress for others.
   6. Add a commment in the Github issue, indicating this issue is completed. 
   7. Repository admin will be notified automatically by Github when a comment is added, will validate the change and update the issue.<br>
 
-# Github Issues
+# Issues in Github
 - Each of the web page has a corresponsing Github issue. 
 - The issue captures all the change requests for that web page. 
 - Feel free to work on all the changes requests, or any of the change requests in a Github Issue.
