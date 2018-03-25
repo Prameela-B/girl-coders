@@ -7,9 +7,9 @@ We are using: https://www.interserver.net/tips/free-wordpress-themes/
 # WordPress Role for Developers
 Developers are assigned Editor role, with ability to edit any page or post.
 Editor role can't change the theme, install plugins, roll back to previous revision, etc.
-If you have need to perform operations that are not provided in Editor role, please send role upgrade request to info@code4socialgood.org
+If you have need to perform operations that are not available for Editor role, please send role upgrade request to info@code4socialgood.org
   
-# List of Plugin
+# List of Plugins
   Below is the up to date list of plugins installed on this web site:
   - All-in-One WP Migration<br>
   
