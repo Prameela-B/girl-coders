@@ -24,6 +24,10 @@ We want to share our source code wordpress for others.
 - When a change request is implemented by developer, developer will add comments to the issue. 
 - When the change request implementation is validated, it will be removed from the issue. The Github issue will remain open.
 
+# Developer's Guide
+
+Developer's Guide: https://github.com/Code4SocialGood/girl-coders/blob/master/Developer's%20Guide.md
+
 # Menu Structure
 Home Page<br>	
 
